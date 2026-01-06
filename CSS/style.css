@@ -1,0 +1,17 @@
+h1 {
+
+    color: red;
+}
+
+#para1 {
+    font-size: 50px;
+    color: #ccc;
+    background-color: red;
+    border: 5px solid blue;
+}
+
+.commonpara {
+
+    background-color: green;
+    color: white;
+}
